@@ -1,4 +1,6 @@
 # Notification-System-using-Firebase
+This is a simple project for subscribing and sending notfication for a web application . This project uses Firebase to store tokens of users for every subscription. Whenever It detect some change in database or if you want to send some notification to the subscribers , It pushes the notification to all the users using FCM with the help of tokens.
+
 #Setting Up Firebase to Your Project =>
 
 ##Creating a simple project :
